@@ -18,7 +18,6 @@ public class JackSonTest {
 		 
 		 System.out.println(user);
 		 
-		 
 			//convert Object to json string
  
 			//configure Object mapper for pretty print
